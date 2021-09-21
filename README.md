@@ -1,6 +1,6 @@
 # go-metrics
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/ronelliott/go-metrics.svg)](https://pkg.go.dev/github.com/ronelliott/go-metrics) [![Go Report Card](https://goreportcard.com/badge/github.com/ronelliott/go-metrics)](https://goreportcard.com/report/github.com/ronelliott/go-metrics) [![Build Status](https://travis-ci.com/ronelliott/go-metrics.svg?branch=master)](https://travis-ci.com/ronelliott/go-metrics)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ronelliott/go-metrics.svg)](https://pkg.go.dev/github.com/ronelliott/go-metrics) [![Go Report Card](https://goreportcard.com/badge/github.com/ronelliott/go-metrics)](https://goreportcard.com/report/github.com/ronelliott/go-metrics)
 
 go-metrics is a [Go](https://golang.org/) package that provides ...
 
