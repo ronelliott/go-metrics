@@ -37,9 +37,6 @@ See Documentation below for more detailed information.
 
 ## Documentation
 
-**NOTICE**: This library and the Discord API are unfinished.
-Because of that there may be major changes to library in the future.
-
 The code is documented and is the only documentation available. Both GoDoc and
 GoWalker (below) present that information in a nice format.
 
